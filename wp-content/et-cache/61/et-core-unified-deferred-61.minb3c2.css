@@ -424,68 +424,81 @@ body #page-container .et_pb_section .et_pb_contact_form_0.et_pb_contact_form_con
 }
 /*Fotos de Carucel 15 Años*/
 .et_pb_slider .et_pb_slide_0 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_15Años/1.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Retrato_de_Personas/1.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 
 .et_pb_slider .et_pb_slide_1 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_15Años/2.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Retrato_de_Personas/2.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 /*fin de Fotos de Carucel 15 Años*/
 /*Fotos de Carucel Bodas*/
 .et_pb_slider .et_pb_slide_2 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Bodas/1.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Animales/1.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
+   
 }
 
 .et_pb_slider .et_pb_slide_3 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Bodas/2.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Animales/2.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 /*fin de Fotos de Carucel Bodas*/
 /*Fotos de Carucel Familia*/
 .et_pb_slider .et_pb_slide_4 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Familia/1.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Familia/1.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 
 .et_pb_slider .et_pb_slide_5 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Familia/2.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Familia/2.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 /*fin de Fotos de Carucel Familia*/
 /*Fotos de Carucel Maternidad*/
 .et_pb_slider .et_pb_slide_6 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Maternidad/1.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Objectos/1.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 
 .et_pb_slider .et_pb_slide_7 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Maternidad/2.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Objectos/2.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 /*fin de Fotos de Carucel Maternidad*/
 /*Fotos de Carucel Paisajes*/
 .et_pb_slider .et_pb_slide_8 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Paisajes/1.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Paisajes-o-Montañas/1.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 
 .et_pb_slider .et_pb_slide_9 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Paisajes/2.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Paisajes-o-Montañas/2.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 /*fin de Fotos de Carucel Paisajes*/
 /*Fotos de Carucel Parejas*/
 .et_pb_slider .et_pb_slide_10 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Parejas/1.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Estructuras/1.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 
 .et_pb_slider .et_pb_slide_11 {
-    background-image: url(../../uploads/Contenido-Img/Galeria_Parejas/2.jpg);
+    background-image: url(../../uploads/Contenido-Img/Carrucel/Estructuras/2.jpg);
     background-color: RGBA(255, 255, 255, 0)
+    width: 1080px; height: 607px;
 }
 /*fin de Fotos de Carucel Parejas*/
 .et_pb_column_0,
